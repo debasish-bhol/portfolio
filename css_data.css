@@ -1,0 +1,47 @@
+.profile {
+    padding: 10%;
+    /* background-color: yellow; */
+  }
+
+  .ln-ht {
+    line-height: 1.6;
+  }
+
+  .exp {
+    padding-left: 10%;
+    padding-top: 10%;
+    /* background-color: green; */
+  }
+
+  .projects {
+    word-wrap: break-word;
+    /* padding: 10% */
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+  }
+  .education{
+    /* word-wrap: break-word; */
+    padding-left: 10%;
+    padding-top: 10%;
+  }
+  .edu{
+    word-wrap: break-word;
+    /* padding: 10% */
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+  }
+
+  .skills{
+    /* word-wrap: break-word; */
+    padding-left: 10%;
+    padding-top: 10%;
+  }
+  .skl{
+    word-wrap: break-word;
+    /* padding: 10% */
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+  }
