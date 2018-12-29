@@ -15,7 +15,7 @@ function Star() {
   }
 
   this.show = function() {
-    fill(255);
+    fill(300);
     noStroke();
 
     var sx = map(this.x / this.z, 0, 1, 0, width);
